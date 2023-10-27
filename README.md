@@ -1,6 +1,5 @@
---------------------
-|# JAVA programming|
---------------------
+# JAVA programming
+
 1. Getting Started
     - What is Java?
     - What can you build with Java?
