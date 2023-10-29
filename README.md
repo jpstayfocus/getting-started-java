@@ -1,4 +1,4 @@
-# JAVA programming
+# JAVA
 
 1. Getting Started
     - What is Java?
