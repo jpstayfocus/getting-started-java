@@ -61,5 +61,25 @@
 - and much more
 
 ### Java Usages
-- 
+<img width="636" alt="Screenshot 2023-11-10 at 2 41 19 PM" src="https://github.com/jpstayfocus/getting-started-java/assets/110998062/1c7b01d3-88a1-4ac8-88f5-f6456d6d22ae">
+
+### Compliled vs Interpreted Languages
+- Java is compiled/interpreted language
+- Backend
+- JavaScript is an interpreted
+- Mostly used on web browsers and some backend with NodeJS
+
+Compiler is special progam that processes statement written in a particular programming language and turns them into a machine language or "code" that a computer's processor uses
+<img width="945" alt="Screenshot 2023-11-10 at 2 55 03 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/ef3ac550-1003-4b68-9249-36e5a2b0b6b4">
+
+Interpreter reads each statement of code and then converts or executes it directly.
+<img width="1030" alt="Screenshot 2023-11-10 at 2 54 20 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/b79028d6-d225-4b13-a87e-078d635dcc9f">
+
+Difference VS compiled and Interpreted.
+<img width="1236" alt="Screenshot 2023-11-10 at 2 53 13 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/7342bbbc-e65a-4bdf-8045-c49ceb3c4905">
+
+
+
+
+
        
