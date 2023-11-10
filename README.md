@@ -43,4 +43,11 @@
      - Methods
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Java
+_ Object Oriented Programming language
+_ Created by James Gosling in 1995
+_ 3 Billion devices run Java programs
+_ Similar to C++ but easier (dont have to allocate memory)
+_ Very Popular
        
