@@ -45,9 +45,21 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Java
-_ Object Oriented Programming language
-_ Created by James Gosling in 1995
-_ 3 Billion devices run Java programs
-_ Similar to C++ but easier (dont have to allocate memory)
-_ Very Popular
+- Object Oriented Programming language
+- Created by James Gosling in 1995
+- 3 Billion devices run Java programs
+- Similar to C++ but easier (dont have to allocate memory)
+- Very Popular
+
+### What can you build with Java?
+- Mobile apps for Android (nowadays poeple use Kotlin and Switch for IOS)
+- Desktop App using Java swing, JavaFx
+- Enterprise applications
+- Games such as [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
+- Cloud based applications
+- Web applications
+- and much more
+
+### Java Usages
+- 
        
