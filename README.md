@@ -70,13 +70,18 @@
 - Mostly used on web browsers and some backend with NodeJS
 
 Compiler is special progam that processes statement written in a particular programming language and turns them into a machine language or "code" that a computer's processor uses
-<img width="945" alt="Screenshot 2023-11-10 at 2 55 03 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/ef3ac550-1003-4b68-9249-36e5a2b0b6b4">
-
-Interpreter reads each statement of code and then converts or executes it directly.
 <img width="1030" alt="Screenshot 2023-11-10 at 2 54 20 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/b79028d6-d225-4b13-a87e-078d635dcc9f">
 
-Difference VS compiled and Interpreted.
+Interpreter reads each statement of code and then converts or executes it directly.
 <img width="1236" alt="Screenshot 2023-11-10 at 2 53 13 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/7342bbbc-e65a-4bdf-8045-c49ceb3c4905">
+
+Difference VS compiled and Interpreted.
+<img width="945" alt="Screenshot 2023-11-10 at 2 55 03 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/ef3ac550-1003-4b68-9249-36e5a2b0b6b4">
+
+JAVA and JVM
+<img width="1123" alt="Screenshot 2023-11-10 at 2 59 39 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/7eb11d39-881e-47aa-8edd-6d0231e0ca7f">
+
+
 
 
 
